@@ -1,0 +1,13 @@
+# Core data processing and visualization libraries
+jupyterlab==4.3.5       # Interactive development environment for Jupyter notebooks
+numpy==2.2.2            # Fundamental package for scientific computing
+pandas==2.2.3           # Data manipulation and analysis library
+matplotlib==3.10.0      # Comprehensive visualization library
+seaborn==0.13.2         # Statistical data visualization based on matplotlib
+scipy==1.15.1           # Scientific computing library
+scikit-learn==1.6.1     # Machine learning library
+pyspark==3.5.5          # Apache Spark Python API for big data processing
+pyarrow>=18.0.0         # Arrow columnar data format
+
+# Machine Learning Models and Pipeline Libraries
+xgboost==3.0.2          # Gradient boosting framework for XGBoost model
